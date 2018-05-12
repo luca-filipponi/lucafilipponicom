@@ -1,3 +1,3 @@
-### SUURGE DEPLOy
+### SUURGE DEPLOY
 
 surge . lucafilipponi.com

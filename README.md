@@ -1,3 +1,9 @@
-### SUURGE DEPLOY
+# SAMPLE CV site
 
-surge . lucafilipponi.com
+
+Build everyting with: 
+
+```gulp``` 
+Deployed through surge using: 
+
+```surge . lucafilipponi.com``` 
